@@ -1,0 +1,264 @@
+[
+    {
+        "filename": "BackEnd_Engineer_Resume1.pdf",
+        "name": "Ethan Carter",
+        "profile": "Proficient Back-End Engineer specializing in building scalable microservices and robust RESTful APIs.",
+        "skills": [
+            "Python",
+            "Java",
+            "SQL",
+            "Django",
+            "Flask",
+            "PostgreSQL",
+            "Redis",
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "CI/CD"
+        ],
+        "education": [
+            "B.S. in Computer Science, University of California, Berkeley, 2018 (GPA: 3.8/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Back-End Developer",
+                "company": "TechSphere",
+                "duration": "Jan 2019 - Present",
+                "description": [
+                    "Developed and deployed microservices using Python and Flask, supporting over 1 million monthly active users.",
+                    "Optimized database queries in PostgreSQL, reducing response times by 25% and improving application performance.",
+                    "Implemented CI/CD pipelines using Jenkins and Docker, accelerating release cycles by 30%."
+                ]
+            },
+            {
+                "position": "Software Engineer Intern",
+                "company": "InnovateX",
+                "duration": "Jun 2018 - Dec 2018",
+                "description": [
+                    "Designed RESTful APIs for internal tools, improving operational efficiency for multiple departments.",
+                    "Developed logging mechanisms using Elasticsearch and Kibana to monitor application health in real-time."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "E-Commerce Platform Backend",
+                "description": [
+                    "Built a robust order management system using Django and PostgreSQL, enabling seamless processing of transactions.",
+                    "Integrated third-party payment gateways like Stripe and PayPal for secure and efficient payment handling.",
+                    "Implemented caching strategies with Redis to improve API response times."
+                ]
+            },
+            {
+                "title": "Real-Time Chat Application",
+                "description": [
+                    "Developed a scalable WebSocket server using Flask and Redis, enabling real-time messaging for thousands of users.",
+                    "Implemented message queueing with RabbitMQ to ensure reliability under high load conditions."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "BackEnd_Engineer_Resume2.pdf",
+        "name": "Olivia Johnson",
+        "profile": "Experienced Back-End Engineer with a focus on cloud-native development and containerized solutions.",
+        "skills": [
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "GraphQL",
+            "AWS",
+            "Terraform",
+            "Docker",
+            "Kubernetes",
+            "Jenkins",
+            "TypeScript"
+        ],
+        "education": [
+            "M.S. in Software Engineering, Stanford University, 2017 (GPA: 4.0/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Senior Back-End Engineer",
+                "company": "Cloudify Solutions",
+                "duration": "Feb 2018 - Present",
+                "description": [
+                    "Architected and developed microservices for cloud-based applications, handling over 100,000 API requests per second.",
+                    "Designed GraphQL schemas and resolvers, improving client-server communication efficiency.",
+                    "Automated infrastructure provisioning using Terraform, reducing deployment times by 40%."
+                ]
+            },
+            {
+                "position": "Software Developer",
+                "company": "DataGrid Inc.",
+                "duration": "Aug 2017 - Jan 2018",
+                "description": [
+                    "Built data ingestion pipelines for processing real-time streams using Node.js and AWS Lambda.",
+                    "Deployed containerized applications on Kubernetes clusters, ensuring high availability and scalability."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Social Media Analytics Platform",
+                "description": [
+                    "Developed backend services using Node.js and MongoDB to aggregate and analyze social media data.",
+                    "Implemented RESTful APIs to fetch and process analytics in real time.",
+                    "Deployed services on AWS using Kubernetes, ensuring 99.9% uptime."
+                ]
+            },
+            {
+                "title": "Event Booking System",
+                "description": [
+                    "Designed a booking system backend using Express.js and MongoDB, enabling efficient reservation management.",
+                    "Integrated third-party APIs for payment processing and calendar synchronization."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "BackEnd_Engineer_Resume3.pdf",
+        "name": "Liam Brooks",
+        "profile": "Back-End Engineer with expertise in optimizing application performance and building secure systems.",
+        "skills": [
+            "Ruby",
+            "Rails",
+            "MySQL",
+            "Redis",
+            "Docker",
+            "AWS",
+            "GraphQL",
+            "Jenkins",
+            "Terraform",
+            "OAuth",
+            "ElasticSearch"
+        ],
+        "education": [
+            "B.S. in Information Technology, University of Texas, 2016 (GPA: 3.7/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Back-End Developer",
+                "company": "SecureLink",
+                "duration": "Mar 2017 - Present",
+                "description": [
+                    "Built and maintained RESTful APIs for authentication and user management, improving security and scalability.",
+                    "Implemented caching with Redis, reducing database load and enhancing response times by 35%.",
+                    "Optimized search capabilities using Elasticsearch, enabling users to find results 50% faster."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Authentication Microservice",
+                "description": [
+                    "Developed a secure authentication service using Ruby on Rails, implementing OAuth2 for third-party integrations.",
+                    "Designed the system to handle 50,000 logins per hour during peak traffic."
+                ]
+            },
+            {
+                "title": "Content Delivery Platform",
+                "description": [
+                    "Created backend infrastructure for delivering high-quality media content using Rails and AWS S3.",
+                    "Optimized data transfer pipelines, reducing latency and improving delivery times."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "BackEnd_Engineer_Resume4.pdf",
+        "name": "Sophia Patel",
+        "profile": "Passionate Back-End Developer skilled in building robust APIs and distributed systems.",
+        "skills": [
+            "Go",
+            "Python",
+            "PostgreSQL",
+            "Redis",
+            "Kubernetes",
+            "Kafka",
+            "AWS",
+            "Docker",
+            "Prometheus",
+            "Grafana"
+        ],
+        "education": [
+            "M.S. in Computer Science, MIT, 2020 (GPA: 4.0/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Software Engineer",
+                "company": "StreamLine",
+                "duration": "Jun 2020 - Present",
+                "description": [
+                    "Built distributed data pipelines using Kafka and Go, processing over 1 TB of data daily.",
+                    "Developed monitoring dashboards using Prometheus and Grafana to track system performance.",
+                    "Optimized database queries, improving throughput by 30%."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Real-Time Analytics System",
+                "description": [
+                    "Designed and implemented a real-time analytics backend using Go and Kafka.",
+                    "Built APIs to provide clients with live insights, achieving sub-second latency."
+                ]
+            },
+            {
+                "title": "Distributed File Storage System",
+                "description": [
+                    "Implemented a scalable storage system using Python and AWS S3 for secure file management.",
+                    "Integrated with Kubernetes for easy deployment and management."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "BackEnd_Engineer_Resume5.pdf",
+        "name": "Mason White",
+        "profile": "Detail-oriented Back-End Developer with a passion for solving complex challenges in distributed systems.",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Hibernate",
+            "MySQL",
+            "Docker",
+            "RabbitMQ",
+            "AWS",
+            "Jenkins",
+            "Kubernetes",
+            "ElasticSearch"
+        ],
+        "education": [
+            "B.S. in Computer Science, Purdue University, 2019 (GPA: 3.9/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Back-End Developer",
+                "company": "TechWave",
+                "duration": "Jul 2019 - Present",
+                "description": [
+                    "Developed scalable microservices using Java and Spring Boot, serving millions of daily active users.",
+                    "Integrated RabbitMQ for asynchronous processing, improving system reliability and throughput.",
+                    "Designed database schemas with Hibernate, ensuring efficient data management."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Online Banking System",
+                "description": [
+                    "Built backend services for an online banking application using Spring Boot and MySQL.",
+                    "Implemented two-factor authentication and secure payment gateways."
+                ]
+            },
+            {
+                "title": "Log Aggregation System",
+                "description": [
+                    "Created a log aggregation system using Elasticsearch and Kibana, enabling real-time log monitoring.",
+                    "Integrated Jenkins for continuous deployment and automated testing."
+                ]
+            }
+        ]
+    }
+]

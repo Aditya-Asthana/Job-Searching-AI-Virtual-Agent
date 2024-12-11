@@ -1,0 +1,242 @@
+[
+    {
+        "filename": "Engineering_Resume1.pdf",
+        "name": "Daniel Roberts",
+        "profile": "Mechanical Engineer with a strong focus on designing and optimizing industrial systems for maximum efficiency.",
+        "skills": [
+            "AutoCAD",
+            "SolidWorks",
+            "Finite Element Analysis (FEA)",
+            "MATLAB",
+            "Thermodynamics",
+            "Project Management",
+            "Lean Manufacturing"
+        ],
+        "education": [
+            "B.S. in Mechanical Engineering, Massachusetts Institute of Technology, 2017 (GPA: 3.9/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Mechanical Engineer",
+                "company": "Precision Systems Inc.",
+                "duration": "Feb 2018 - Present",
+                "description": [
+                    "Designed and implemented energy-efficient HVAC systems, reducing energy consumption by 15%.",
+                    "Conducted FEA simulations to ensure structural integrity of components under various load conditions.",
+                    "Collaborated with cross-functional teams to optimize manufacturing processes, cutting costs by 20%."
+                ]
+            },
+            {
+                "position": "Engineering Intern",
+                "company": "AeroTech Dynamics",
+                "duration": "Jun 2017 - Jan 2018",
+                "description": [
+                    "Assisted in the development of lightweight aerospace components, improving fuel efficiency.",
+                    "Performed thermal analysis on engine components to evaluate performance under extreme conditions.",
+                    "Prepared technical documentation and reports for internal and client review."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Industrial Automation Design",
+                "description": [
+                    "Developed automation systems for assembly lines, increasing production efficiency by 30%.",
+                    "Integrated sensors and actuators into existing systems to improve reliability.",
+                    "Conducted cost-benefit analysis to justify project investments."
+                ]
+            },
+            {
+                "title": "Wind Turbine Optimization",
+                "description": [
+                    "Designed blade geometries for wind turbines, enhancing energy capture by 10%.",
+                    "Simulated aerodynamic performance using CFD software to validate designs."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Engineering_Resume2.pdf",
+        "name": "Rachel Adams",
+        "profile": "Electrical Engineer with expertise in circuit design and embedded systems development.",
+        "skills": [
+            "Circuit Design",
+            "Embedded Systems",
+            "PCB Design",
+            "Python",
+            "MATLAB",
+            "Altium Designer",
+            "IoT Development",
+            "Signal Processing"
+        ],
+        "education": [
+            "M.S. in Electrical Engineering, Stanford University, 2018 (GPA: 4.0/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Embedded Systems Engineer",
+                "company": "TechCircuit LLC",
+                "duration": "Aug 2018 - Present",
+                "description": [
+                    "Designed embedded systems for IoT devices, reducing power consumption by 25%.",
+                    "Developed firmware for microcontrollers, ensuring seamless device functionality.",
+                    "Collaborated with hardware teams to design PCBs for consumer electronics."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Smart Home Automation System",
+                "description": [
+                    "Developed firmware for a smart home hub, integrating multiple IoT devices.",
+                    "Implemented real-time data processing to improve device response times by 15%.",
+                    "Created user-friendly APIs for third-party integrations."
+                ]
+            },
+            {
+                "title": "Wearable Health Monitor",
+                "description": [
+                    "Designed a wearable device for real-time health monitoring using embedded sensors.",
+                    "Optimized battery life to achieve a 48-hour runtime on a single charge."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Engineering_Resume3.pdf",
+        "name": "James Wilson",
+        "profile": "Civil Engineer with extensive experience in structural analysis and sustainable infrastructure design.",
+        "skills": [
+            "Structural Analysis",
+            "AutoCAD",
+            "Revit",
+            "SAP2000",
+            "Sustainable Design",
+            "Project Planning",
+            "Cost Estimation"
+        ],
+        "education": [
+            "B.S. in Civil Engineering, University of Illinois Urbana-Champaign, 2015 (GPA: 3.8/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Structural Engineer",
+                "company": "UrbanBuild Co.",
+                "duration": "Mar 2016 - Present",
+                "description": [
+                    "Designed structural frameworks for commercial buildings, adhering to safety standards.",
+                    "Performed seismic analysis to ensure building resilience in earthquake-prone areas.",
+                    "Coordinated with architects and contractors to deliver projects on time and within budget."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Green Office Complex",
+                "description": [
+                    "Designed sustainable infrastructure features, including rainwater harvesting systems.",
+                    "Incorporated solar panels into building designs to reduce energy dependence by 20%.",
+                    "Ensured compliance with LEED certification standards."
+                ]
+            },
+            {
+                "title": "Bridge Rehabilitation Project",
+                "description": [
+                    "Conducted load testing and structural assessments to extend the lifespan of aging bridges.",
+                    "Proposed cost-effective retrofitting solutions, reducing project costs by 10%."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Engineering_Resume4.pdf",
+        "name": "Sarah Carter",
+        "profile": "Software Engineer specializing in backend development and scalable distributed systems.",
+        "skills": [
+            "Python",
+            "Java",
+            "Microservices",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "SQL",
+            "NoSQL",
+            "CI/CD",
+            "Agile Development"
+        ],
+        "education": [
+            "B.S. in Computer Science, University of California, Berkeley, 2016 (GPA: 3.85/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Backend Developer",
+                "company": "CloudScale Systems",
+                "duration": "Jul 2017 - Present",
+                "description": [
+                    "Designed microservices for cloud-based applications, improving scalability by 40%.",
+                    "Implemented RESTful APIs to support high-traffic web applications.",
+                    "Deployed containerized applications using Docker and Kubernetes."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "E-Commerce Backend Platform",
+                "description": [
+                    "Developed a scalable backend for an e-commerce platform, handling over 1 million daily users.",
+                    "Integrated third-party payment gateways for seamless transactions."
+                ]
+            },
+            {
+                "title": "Real-Time Analytics System",
+                "description": [
+                    "Built a real-time data pipeline using Apache Kafka and AWS, supporting live analytics dashboards."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Engineering_Resume5.pdf",
+        "name": "Olivia Harris",
+        "profile": "Environmental Engineer committed to sustainable practices and environmental impact reduction.",
+        "skills": [
+            "Environmental Impact Assessment",
+            "GIS",
+            "Water Resource Management",
+            "Waste Management",
+            "Regulatory Compliance",
+            "Sustainable Design"
+        ],
+        "education": [
+            "M.S. in Environmental Engineering, University of Washington, 2019 (GPA: 4.0/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Environmental Consultant",
+                "company": "EcoSolutions Inc.",
+                "duration": "Sep 2019 - Present",
+                "description": [
+                    "Conducted environmental impact assessments for infrastructure projects.",
+                    "Developed waste management plans, reducing landfill contributions by 30%.",
+                    "Collaborated with government agencies to ensure regulatory compliance."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Sustainable Urban Development",
+                "description": [
+                    "Advised on sustainable urban planning strategies for a new residential area.",
+                    "Proposed green infrastructure solutions, including permeable pavements and bio-retention systems."
+                ]
+            },
+            {
+                "title": "Water Treatment System Design",
+                "description": [
+                    "Designed a cost-effective water treatment system for a rural community, improving access to clean water.",
+                    "Reduced treatment costs by 20% through process optimization."
+                ]
+            }
+        ]
+    }
+]

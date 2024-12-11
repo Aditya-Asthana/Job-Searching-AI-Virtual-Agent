@@ -1,0 +1,246 @@
+[
+    {
+        "filename": "Sales_Resume1.pdf",
+        "name": "Alex Morgan",
+        "profile": "Dynamic Sales Engineer with a strong background in technology and customer relationship management.",
+        "skills": [
+            "Salesforce",
+            "CRM Tools",
+            "Technical Sales",
+            "Cloud Solutions",
+            "Presentation Skills",
+            "Product Demos",
+            "Negotiation",
+            "Account Management",
+            "Problem-Solving",
+            "Lead Generation"
+        ],
+        "education": [
+            "B.S. in Mechanical Engineering, University of Michigan, 2016 (GPA: 3.7/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Sales Engineer",
+                "company": "TechGear Solutions",
+                "duration": "Jan 2018 - Present",
+                "description": [
+                    "Developed tailored technical presentations for potential clients, improving deal closure rates by 20%.",
+                    "Collaborated with product teams to address customer feedback and refine solutions.",
+                    "Trained junior sales engineers on technical product knowledge and presentation techniques."
+                ]
+            },
+            {
+                "position": "Junior Sales Engineer",
+                "company": "Innovate Sales",
+                "duration": "Jun 2016 - Dec 2017",
+                "description": [
+                    "Supported senior sales engineers in preparing product demonstrations and technical proposals.",
+                    "Managed pre-sales technical support, reducing customer response times by 15%.",
+                    "Assisted in closing deals worth over $2 million in revenue."
+                ]
+            }
+        ],
+        "leadership_roles": [
+            {
+                "title": "Team Lead, Sales Engineering",
+                "description": [
+                    "Mentored a team of 5 junior sales engineers, guiding them in client interactions and technical presentations.",
+                    "Implemented a knowledge-sharing platform, enhancing team productivity by 25%.",
+                    "Conducted bi-weekly workshops to improve team technical skills."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Sales_Resume2.pdf",
+        "name": "Taylor Lee",
+        "profile": "Results-driven Account Executive with a proven record in closing high-value deals and expanding client portfolios.",
+        "skills": [
+            "Account Management",
+            "Business Development",
+            "Contract Negotiation",
+            "Upselling",
+            "Customer Retention",
+            "Market Research",
+            "CRM Tools",
+            "Networking",
+            "Sales Strategy"
+        ],
+        "education": [
+            "B.A. in Business Administration, University of Texas, 2015 (GPA: 3.8/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Account Executive",
+                "company": "Prime Solutions",
+                "duration": "Jan 2017 - Present",
+                "description": [
+                    "Closed deals totaling over $5 million annually by developing strong client relationships.",
+                    "Created custom sales strategies to address unique client needs, increasing satisfaction by 30%.",
+                    "Collaborated with marketing teams to identify and capitalize on emerging market trends."
+                ]
+            },
+            {
+                "position": "Sales Associate",
+                "company": "SalesPro Inc.",
+                "duration": "Jun 2015 - Dec 2016",
+                "description": [
+                    "Supported senior account executives in lead generation and client meetings.",
+                    "Achieved 120% of sales targets consistently through proactive client engagement.",
+                    "Developed reports on customer trends to inform sales strategy adjustments."
+                ]
+            }
+        ],
+        "leadership_roles": [
+            {
+                "title": "Lead Account Strategist",
+                "description": [
+                    "Designed scalable account management workflows adopted by the entire sales department.",
+                    "Trained 10+ new hires on effective account management practices.",
+                    "Pioneered a feedback loop with clients, enhancing service delivery and retention."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Sales_Resume3.pdf",
+        "name": "Jordan Smith",
+        "profile": "Experienced VP of Sales with a track record of building and leading high-performing sales teams.",
+        "skills": [
+            "Leadership",
+            "Sales Strategy",
+            "Revenue Growth",
+            "Team Management",
+            "P&L Management",
+            "Market Analysis",
+            "Negotiation",
+            "Client Acquisition",
+            "Forecasting"
+        ],
+        "education": [
+            "MBA, Harvard Business School, 2013"
+        ],
+        "experience": [
+            {
+                "position": "VP of Sales",
+                "company": "Elite Enterprises",
+                "duration": "Mar 2015 - Present",
+                "description": [
+                    "Increased annual revenue from $20 million to $50 million by implementing strategic sales initiatives.",
+                    "Recruited and mentored a sales team of 50, fostering a high-performance culture.",
+                    "Negotiated partnerships with key accounts, contributing to 40% of annual revenue."
+                ]
+            },
+            {
+                "position": "Regional Sales Manager",
+                "company": "GrowthPartners",
+                "duration": "Jan 2013 - Feb 2015",
+                "description": [
+                    "Managed sales operations across three regions, exceeding targets by 15% annually.",
+                    "Led a team of 20 sales professionals, providing training and performance feedback.",
+                    "Introduced CRM tools to streamline lead tracking and reporting."
+                ]
+            }
+        ],
+        "leadership_roles": [
+            {
+                "title": "Executive Mentor",
+                "description": [
+                    "Established a leadership development program for mid-level managers, improving internal promotion rates by 25%.",
+                    "Conducted quarterly workshops on advanced sales strategies for senior leadership.",
+                    "Advised C-suite executives on sales trends and strategic pivots."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Sales_Resume4.pdf",
+        "name": "Sydney Brown",
+        "profile": "Passionate Sales Manager with expertise in driving team success and exceeding revenue goals.",
+        "skills": [
+            "Team Leadership",
+            "Revenue Growth",
+            "Customer Engagement",
+            "Sales Analytics",
+            "Forecasting",
+            "Conflict Resolution",
+            "Market Research",
+            "CRM Implementation"
+        ],
+        "education": [
+            "B.S. in Marketing, University of Florida, 2014 (GPA: 3.9/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Sales Manager",
+                "company": "Visionary Ventures",
+                "duration": "Apr 2016 - Present",
+                "description": [
+                    "Led a sales team of 15, achieving a 20% year-over-year growth in revenue.",
+                    "Analyzed sales data to identify trends and optimize team strategies.",
+                    "Implemented incentive programs that boosted team productivity by 30%."
+                ]
+            },
+            {
+                "position": "Sales Representative",
+                "company": "Bright Futures LLC",
+                "duration": "Jul 2014 - Mar 2016",
+                "description": [
+                    "Exceeded quarterly sales quotas consistently, earning top performer recognition.",
+                    "Built and maintained relationships with key clients, increasing repeat business by 25%.",
+                    "Streamlined customer feedback processes to improve service quality."
+                ]
+            }
+        ],
+        "leadership_roles": [
+            {
+                "title": "Team Coordinator",
+                "description": [
+                    "Organized team-building events to foster collaboration and morale.",
+                    "Developed training materials for new hires, reducing onboarding time by 20%.",
+                    "Served as a liaison between sales and marketing teams, ensuring alignment on campaigns."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Sales_Resume5.pdf",
+        "name": "Chris Nguyen",
+        "profile": "Dedicated Sales Associate with strong interpersonal skills and a passion for client success.",
+        "skills": [
+            "Client Engagement",
+            "Product Knowledge",
+            "Lead Generation",
+            "Upselling",
+            "CRM Tools",
+            "Data Analysis",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "education": [
+            "B.A. in Communications, New York University, 2020 (GPA: 3.8/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Sales Associate",
+                "company": "TechSavvy",
+                "duration": "Jun 2020 - Present",
+                "description": [
+                    "Assisted clients in understanding and purchasing suitable products, achieving 120% of sales goals.",
+                    "Developed a referral program that increased new customer acquisition by 15%.",
+                    "Provided post-sale support, ensuring high levels of customer satisfaction."
+                ]
+            }
+        ],
+        "leadership_roles": [
+            {
+                "title": "Team Mentor",
+                "description": [
+                    "Guided junior associates in mastering product knowledge and sales techniques.",
+                    "Facilitated weekly team meetings to share best practices and client success stories.",
+                    "Supported team leaders in executing promotional campaigns effectively."
+                ]
+            }
+        ]
+    }
+]

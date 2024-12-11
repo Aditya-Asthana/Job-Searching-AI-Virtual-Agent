@@ -1,0 +1,252 @@
+[
+    {
+        "filename": "Finance_Resume1.pdf",
+        "name": "Michael Davis",
+        "profile": "Experienced Financial Analyst with a strong background in data-driven decision-making and investment strategies.",
+        "skills": [
+            "Financial Modeling",
+            "Data Analysis",
+            "Investment Strategies",
+            "Risk Assessment",
+            "SQL",
+            "Excel",
+            "Power BI",
+            "Valuation Techniques"
+        ],
+        "education": [
+            "B.S. in Finance, University of Chicago, 2017 (GPA: 3.9/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Financial Analyst",
+                "company": "Capital Insight",
+                "duration": "Jan 2018 - Present",
+                "description": [
+                    "Developed detailed financial models to support investment decisions, leading to a 20% ROI across client portfolios.",
+                    "Prepared comprehensive market analysis reports, assisting in identifying lucrative opportunities.",
+                    "Collaborated with cross-functional teams to streamline budgeting and forecasting processes."
+                ]
+            },
+            {
+                "position": "Investment Intern",
+                "company": "Global Wealth Advisors",
+                "duration": "Jun 2017 - Dec 2017",
+                "description": [
+                    "Conducted quantitative analysis on investment performance metrics to support senior analysts.",
+                    "Assisted in the preparation of client presentations and proposals, improving client engagement.",
+                    "Monitored daily market trends to provide actionable insights to the investment team."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Portfolio Optimization Model",
+                "description": [
+                    "Designed an Excel-based optimization model to maximize portfolio returns while minimizing risks.",
+                    "Utilized historical data and predictive analysis to inform investment strategies.",
+                    "Reduced portfolio volatility by 15% through diversification strategies."
+                ]
+            },
+            {
+                "title": "Market Trend Dashboard",
+                "description": [
+                    "Built an interactive Power BI dashboard to track real-time market trends and financial KPIs.",
+                    "Integrated APIs to fetch live market data, improving decision-making for the investment team."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Finance_Resume2.pdf",
+        "name": "Sophia Johnson",
+        "profile": "Dedicated Investment Banker with expertise in mergers, acquisitions, and corporate finance.",
+        "skills": [
+            "Corporate Finance",
+            "Mergers & Acquisitions",
+            "Valuation",
+            "Risk Analysis",
+            "Excel",
+            "SQL",
+            "PowerPoint",
+            "Client Management",
+            "Negotiation"
+        ],
+        "education": [
+            "M.S. in Finance, Wharton School, University of Pennsylvania, 2016 (GPA: 4.0/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Investment Banker",
+                "company": "GoldenBridge Partners",
+                "duration": "Jul 2016 - Present",
+                "description": [
+                    "Led multiple M&A transactions worth over $500 million, driving significant revenue growth.",
+                    "Prepared valuation models using DCF and comparable company analysis to support deal structuring.",
+                    "Negotiated with stakeholders to ensure successful deal closures."
+                ]
+            },
+            {
+                "position": "Financial Analyst Intern",
+                "company": "EquityTrust Capital",
+                "duration": "May 2015 - Jun 2016",
+                "description": [
+                    "Supported senior bankers in drafting pitchbooks and financial presentations.",
+                    "Analyzed financial statements to identify opportunities for growth and cost-saving initiatives.",
+                    "Assisted in due diligence processes for potential acquisitions."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Valuation Framework for Startups",
+                "description": [
+                    "Developed a valuation framework tailored to early-stage startups using industry benchmarks and projections.",
+                    "Provided actionable insights to over 10 clients, resulting in successful capital raises."
+                ]
+            },
+            {
+                "title": "Debt Restructuring Proposal",
+                "description": [
+                    "Created a comprehensive debt restructuring plan for a distressed client, enabling a 30% reduction in interest expenses.",
+                    "Presented the proposal to the client\u2019s board of directors, securing their approval."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Finance_Resume3.pdf",
+        "name": "Ethan Miller",
+        "profile": "Risk Analyst with a strong aptitude for evaluating financial risks and implementing mitigation strategies.",
+        "skills": [
+            "Risk Management",
+            "Financial Analysis",
+            "Data Analytics",
+            "SQL",
+            "Python",
+            "Tableau",
+            "Credit Analysis",
+            "Portfolio Management"
+        ],
+        "education": [
+            "B.S. in Economics, Columbia University, 2018 (GPA: 3.85/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Risk Analyst",
+                "company": "Global Bank",
+                "duration": "Aug 2018 - Present",
+                "description": [
+                    "Conducted in-depth credit risk analysis for corporate clients, reducing default rates by 10%.",
+                    "Developed risk models using Python and SQL to predict potential exposures.",
+                    "Collaborated with portfolio managers to align risk strategies with business goals."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Credit Risk Assessment Model",
+                "description": [
+                    "Built a machine learning model to assess credit risk, increasing prediction accuracy by 20%.",
+                    "Used Python and SQL for data cleaning, feature engineering, and model training."
+                ]
+            },
+            {
+                "title": "Risk Dashboard",
+                "description": [
+                    "Designed an interactive Tableau dashboard to visualize portfolio risks and mitigation strategies.",
+                    "Provided actionable insights to senior management, improving decision-making processes."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Finance_Resume4.pdf",
+        "name": "Emily Davis",
+        "profile": "Wealth Manager specializing in personalized financial planning and investment advisory services.",
+        "skills": [
+            "Financial Planning",
+            "Wealth Management",
+            "Client Relations",
+            "Portfolio Diversification",
+            "Estate Planning",
+            "Tax Strategies",
+            "CRM Tools"
+        ],
+        "education": [
+            "MBA in Finance, NYU Stern School of Business, 2015"
+        ],
+        "experience": [
+            {
+                "position": "Senior Wealth Manager",
+                "company": "Prime Wealth Advisors",
+                "duration": "Feb 2016 - Present",
+                "description": [
+                    "Managed over $200 million in client assets, ensuring customized financial planning for high-net-worth individuals.",
+                    "Developed tax-efficient investment strategies, saving clients over $1 million annually.",
+                    "Built lasting client relationships, achieving a 95% retention rate."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Comprehensive Financial Plans",
+                "description": [
+                    "Developed financial plans tailored to clients\u2019 goals, covering retirement, education, and estate planning.",
+                    "Used Monte Carlo simulations to predict investment outcomes and manage risks."
+                ]
+            },
+            {
+                "title": "Tax Optimization Strategies",
+                "description": [
+                    "Created tax-optimized portfolios for clients, achieving a 20% increase in after-tax returns.",
+                    "Provided workshops to educate clients on tax-saving opportunities."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Finance_Resume5.pdf",
+        "name": "Liam Harris",
+        "profile": "Equity Research Analyst with expertise in analyzing market trends and creating investment theses.",
+        "skills": [
+            "Equity Research",
+            "Market Analysis",
+            "Financial Modeling",
+            "Valuation Techniques",
+            "Bloomberg Terminal",
+            "Python",
+            "Excel"
+        ],
+        "education": [
+            "B.S. in Finance, University of Virginia, 2016 (GPA: 3.8/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Equity Research Analyst",
+                "company": "MarketEdge Analytics",
+                "duration": "Jan 2017 - Present",
+                "description": [
+                    "Authored research reports on tech and healthcare stocks, influencing investment decisions for institutional clients.",
+                    "Conducted in-depth financial modeling to support buy/sell recommendations.",
+                    "Presented findings to portfolio managers, resulting in informed investment decisions."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Sector Analysis Reports",
+                "description": [
+                    "Created quarterly reports on market trends and sector performance, enhancing client portfolios.",
+                    "Identified emerging opportunities in underperforming sectors, leading to successful investments."
+                ]
+            },
+            {
+                "title": "Investment Theses Development",
+                "description": [
+                    "Developed actionable investment theses for over 50 stocks, supported by detailed quantitative analysis.",
+                    "Presented recommendations to clients, achieving a portfolio return of 15% annually."
+                ]
+            }
+        ]
+    }
+]

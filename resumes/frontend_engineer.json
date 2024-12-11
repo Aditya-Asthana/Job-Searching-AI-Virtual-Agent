@@ -1,0 +1,217 @@
+[
+    {
+        "filename": "/mnt/data/FrontEnd_Engineer_Resume1.pdf",
+        "name": "Emma Clark",
+        "profile": "Front-End Engineer adept at building responsive, user-friendly web applications with a strong eye for detail.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React.js",
+            "Redux",
+            "TypeScript",
+            "GraphQL",
+            "Webpack",
+            "Git",
+            "Jest",
+            "Cypress"
+        ],
+        "education": [
+            "B.S. in Computer Science, University of Washington, 2020 (GPA: 3.9/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Front-End Developer",
+                "company": "Greenfield Solutions",
+                "duration": "June 2020 - Present",
+                "description": [
+                    "Developed dynamic, responsive web pages using React.js and Redux, achieving a 30% improvement in performance metrics through optimized state management and efficient component structures.",
+                    "Implemented lazy loading, code splitting, and server-side rendering to improve application load times by 20%, enhancing the user experience on low-bandwidth connections.",
+                    "Collaborated with cross-functional teams, including designers and backend developers, to ensure seamless integration of APIs and maintain consistent UI/UX standards across multiple applications."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "E-Learning Platform",
+                "description": [
+                    "Designed and built an interactive e-learning platform using React.js and GraphQL, enabling personalized course recommendations and real-time quizzes, boosting user engagement by 40%.",
+                    "Integrated video streaming services and implemented accessible navigation, ensuring compliance with WCAG standards for enhanced inclusivity.",
+                    "Optimized the platform's performance by reducing API call redundancies and improving caching strategies, resulting in faster load times."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "/mnt/data/FrontEnd_Engineer_Resume2.pdf",
+        "name": "James Anderson",
+        "profile": "Creative Front-End Developer specializing in modern JavaScript frameworks and intuitive UI design.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Vue.js",
+            "Nuxt.js",
+            "Tailwind CSS",
+            "REST APIs",
+            "Node.js",
+            "Figma",
+            "SASS",
+            "Jasmine"
+        ],
+        "education": [
+            "B.S. in Information Technology, University of Arizona, 2017 (GPA: 3.7/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "UI Developer",
+                "company": "Pixelate Tech",
+                "duration": "Jan 2018 - Present",
+                "description": [
+                    "Led the migration from traditional development to Vue.js, reducing project turnaround times by 25% and improving maintainability through modular components.",
+                    "Conducted comprehensive usability testing, gathering feedback from over 50 users to refine UI/UX design and boost user satisfaction scores by 30%.",
+                    "Collaborated with backend teams to design seamless REST API integrations, ensuring reliable data fetching and consistent application behavior."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Real-Time Dashboard",
+                "description": [
+                    "Developed a real-time analytics dashboard utilizing Vue.js and Chart.js to visualize live metrics, enhancing operational decision-making for clients.",
+                    "Integrated robust REST API endpoints to fetch and display accurate, up-to-date information, ensuring system reliability and transparency.",
+                    "Implemented dark mode and responsive design, providing a more personalized and inclusive user experience."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "/mnt/data/FrontEnd_Engineer_Resume3.pdf",
+        "name": "Sophia Martinez",
+        "profile": "Innovative Front-End Developer with a focus on creating pixel-perfect designs and seamless user interactions.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React.js",
+            "Redux",
+            "SASS",
+            "Webpack",
+            "GraphQL",
+            "Jenkins",
+            "Jest",
+            "Figma"
+        ],
+        "education": [
+            "B.S. in Computer Science, University of California, Los Angeles, 2019 (GPA: 3.8/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Front-End Engineer",
+                "company": "Bright Minds Inc.",
+                "duration": "Jan 2020 - Present",
+                "description": [
+                    "Developed responsive web interfaces using React.js and SASS, ensuring mobile-first design principles.",
+                    "Optimized website performance by implementing efficient state management strategies and lazy loading.",
+                    "Collaborated with UX designers to achieve a 25% increase in user retention rates."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "E-Commerce Web App",
+                "description": [
+                    "Designed and implemented a fully responsive e-commerce platform using React.js and Redux.",
+                    "Incorporated Stripe API for seamless payment processing and enhanced user experience.",
+                    "Integrated advanced search and filter features to improve product discovery."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "/mnt/data/FrontEnd_Engineer_Resume4.pdf",
+        "name": "Liam Walker",
+        "profile": "Dedicated Front-End Developer with expertise in optimizing user workflows and building performant applications.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Angular",
+            "TypeScript",
+            "RxJS",
+            "Tailwind CSS",
+            "Docker",
+            "Node.js",
+            "REST APIs",
+            "Agile Development"
+        ],
+        "education": [
+            "M.S. in Software Engineering, Carnegie Mellon University, 2018 (GPA: 4.0/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Front-End Developer",
+                "company": "TechNova",
+                "duration": "Feb 2019 - Present",
+                "description": [
+                    "Implemented dynamic, reusable components in Angular, reducing code redundancy by 30%.",
+                    "Collaborated with backend teams to design and integrate REST APIs for data synchronization.",
+                    "Enhanced application accessibility, achieving compliance with WCAG 2.1 standards."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Inventory Management Tool",
+                "description": [
+                    "Built a real-time inventory management tool using Angular and RxJS to monitor stock levels and predict shortages.",
+                    "Optimized performance using efficient change detection strategies, improving load times by 20%.",
+                    "Integrated reporting dashboards with exportable data visualizations."
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "/mnt/data/FrontEnd_Engineer_Resume5.pdf",
+        "name": "Oliver Nguyen",
+        "profile": "Proactive Front-End Developer with a knack for developing intuitive user experiences and scalable front-end solutions.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React.js",
+            "Next.js",
+            "GraphQL",
+            "AWS",
+            "Git",
+            "Webpack",
+            "Jest",
+            "Docker"
+        ],
+        "education": [
+            "B.S. in Information Technology, Georgia Institute of Technology, 2021 (GPA: 3.85/4.0)"
+        ],
+        "experience": [
+            {
+                "position": "Front-End Developer",
+                "company": "Cloudify Solutions",
+                "duration": "June 2021 - Present",
+                "description": [
+                    "Developed scalable front-end architecture using React.js and Next.js for cloud-based applications.",
+                    "Implemented automated testing pipelines with Jest, reducing bugs in production by 15%.",
+                    "Optimized image loading using AWS S3 and CloudFront, resulting in 25% faster page load speeds."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Content Management System",
+                "description": [
+                    "Built a robust CMS using Next.js and GraphQL, enabling efficient content creation and publishing workflows.",
+                    "Integrated AWS services for secure file storage and serverless deployments.",
+                    "Created dynamic dashboards for analytics and user engagement insights."
+                ]
+            }
+        ]
+    }
+]
